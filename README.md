@@ -20,7 +20,7 @@ TBA
 
   If we click the item for detailed information, there is no buy or add to cart button in that page. We need to go back to page that is showcasing all item.
 
-  ![](images\main_page.png)
+  ![](images/main_page.png)
 
   ![](images/item_detail.png)
 
