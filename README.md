@@ -85,6 +85,7 @@ TBA
  * User is a male
 	* He is a student in Informatics Departement  ITS
 	* He is 20 years old
+	* He has experience to using a website for shopping in Itemku.com, Bukalapak, Shopee.
 
  ### Transcprit
  #### User 1
@@ -254,7 +255,77 @@ TBA
  
  
  #### User 5
- 
+ 1.	Me	: “Jadi ini adalah sebuah website punya orang lain sih, nanti aku akan kasih kamu beberapa pertanyaan sama instruksi, nanti kamu melakukan apa yang aku instruksi kan. Kalo bisa sih, setiap kamu melakukan instruksi , kamu deskripsiin gitu, kamu mencet tombol apa, trus kamu ngapain. Misal kalo aku nyuruh kamu membuat akun. Brati nanti klik tombol Register terus nanti isiin input. Trus klik register, gitu yaa.”
+2.	User5	: “Oke fhir”
+3.	Me	: “Oke ke pertanyaan pertama, apakah kamu pernah membeli barang atau sesuatu secara online?”
+4.	User5	: “pernah. ”
+5.	Me	: “Dimana?”
+6.	User5	: “Di Bukalapak, Shopee”
+7.	Me	: “Terus bagaimana cara kamu mengoperasikannya?”
+8.	User5	: “Awalnya bikin akun dulu. Abis itu login. Terus cari barang yang di mau. Abis itu tekan beli. Terus nanti pilih pembayarannya. Terus bayar. Kalo sudah bayar, kita bisa lihat statusnya.”
+9.	Me	: “Oke, apakah kamu pernah membeli barang atau sesuatu di difacomputer.com website?”
+10.	User5	: “Belum pernah”
+11.	Me	: “Berarti ini pertama kali ya?”
+12.	User5	: “Iya.”
+13.	Me	: “Terus instruksi pertama, coba kamu cari sebuah laptop LENOVO G-50-70-1558”
+14.	User5	: “Jadi klik ini search boxnya, trus ketik lenovo g50 trus klik search. Terus keluar laptopnya”
+15.	Me	: “Coba kamu cari processor yang digunakan di laptop itu.”
+16.	(user mencari informasi processor laptop itu)
+17.	User5	: “oh ini, processornya intel i5..”
+18.	Me	: “Coba tambahkan laptop itu ke cart”
+19.	User5	: “hm, tambahkan laptopnya ke cart”
+20.	(user mencari tombol troll/tambah ke cart)
+21.	User5	: “kok ga ada. Ini ta? Ketutupan. Eh, bukan.”
+22.	(user terlihat bingung)
+23.	(user mencari tombol troll/tambah ke cart)
+24.	User5	: “Ini ga bisa masukin ke cart saya.”
+25.	Me	: “Kenapa kok ga bisa?”
+26.	User5	: “Ga nemu-nemu daritadi.”
+27.	Me	: “Kalo menurutmu harusnya tombolnya ada dimana?”
+28.	User5	: “Posisi strategisnya ini dibawah bagian Quick Overview. Jadi ada tombol tambahkan ke keranjang apa diatas kontaknya, karena ini di bawahnya ada tatacara pembayaran tapi ga ada cara gimana kita masukin itu ke keranjang. Jadi harus ngontact dulu ke orangnya. Kan ribet”
+29.	Me	: “Malah ga jadi beli gitu ya?”
+30.	User5	: “Iya malah beli di tempat lain. Harus telpon-telpon dulu, padahal kan tujuannya orang beli secara online tu biar lebih mudah dan cepat.”
+31.	(user melihat bagian cara pembayaran)
+32.	Me	: “Ada apa disitu?”
+33.	User5	: “Ini sih di cara pembayarannya, font sama besar kecil hurufnya.  Terus mending dibuat lebih berwarna. Soalnya ini juga penting ini kalo misal kita transfer. Kalo misal warna hampir sama kayak ‘Gambar atau foto ini berfungsi kan jadi ga mudah terlihat.’. Kalo misal kita baca halaman ini secara cepat, ini ga bakal keliatan, soalnya monoton dan dianggap ga penting”
+34.	Me	: “Oke, coba cari lagi sebuah antivirus ‘KARSPERSKY ANTIVIRUS 2017 3 USER’.”
+35.	(user memasukkan input ke serach bar antivirus karspersky. Lalu menekan tombol search)
+36.	User5	: “Loh, kok no data found”
+37.	(user kembali ke halaman home)
+38.	(user memasukkan input ke search bar karspersky 2017. Lalu menekan tombol search)
+39.	User5	: “Loh, no data found”
+40.	User5	: “Oh, jangan jangan ini harus mirip sama judul nya”
+41.	(user memasukkan input KARSPERSKY ANTIVIRUS 2017 3 USER. Lalu menekan tombol search)
+42.	User5	: “Nah ketemu. Hm, seenggak nya tadi waktu aku salah masukin input tuh diambil kata-kata yang mirip sama inputanku, jadi lebih mudah buat search nya. Mungkin kalo dari kategori produk bisa.”
+43.	(user menekan tombol kategori produk)
+44.	User5	: “Oh ternyata ga ada juga, berarti emang ga jualan antivirus ini.”
+45.	Me	: “jualan”
+46.	User5	: “owalah, jualan.”
+47.	(user kembali ke halaman produk KARSPERSKY ANTIVIRUS 2017 3 USER.)
+48.	Me	: “Coba cari tau tentang harganya.”
+49.	(user mencari informasi tentang harga antivirus tersebut)
+50.	User5	: “ga ada ini harganya”
+51.	Me	: “Coba dicari lagi”
+52.	(user mencari informasi tentang harga antivirus tersebut)
+53.	User5 	: “Ini Cuma ada masa aktif , cara pembayaran, sama product tags. Ga ada fhir harganya”
+54.	Me	: “Okay, menurutmu itu harganya seharusnya ditaruh dimana?”
+55.	User5	: “Yang keliatan gitu, Judul trus dibawahnya langsung harga trus bawahnya quick overview trus dibawahnya klik tambahkan .”
+56.	Me	: “Okay, coba kamu tambahkan ke cart”
+57.	User5	: “Tadi sih di page yang lenovo ga ada, sek coba”
+58.	(user mencari tombol tambah ke cart/troll)
+59.	User5	: “ga ada wes fhir”
+60.	Me	: “Aku kasih clue deh. Coba ke home”
+61.	(user kembali ke halaman home)
+62.	User5	: “Ada di halaman ini?”
+63.	Me	: “Iya cari aja”
+64.	(user terlihat bingung untuk mencari tombol troll)
+65.	User5	: “Oh, iki ta? Astaga cilik tenan”
+66.	(user menekan tombol troll)
+67.	User5	: “Nah ini ada harganya juga.”
+68.	Me	: “Iya”
+69.	Me	: “Okay, udah gitu aja. Makasih yaaa”
+70.	User5	: “ya, sama-sama”
+
  
  ### Model and Annotation
  #### Artifact Model
