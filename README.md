@@ -39,6 +39,8 @@ TBA
  ## Contextual Inquiry
  ### Description website
 
+![](images/decs.PNG)
+
 Difacomputer.com is web e-commerce that provide some accessories computer, laptop, smartphone and etc. There are many thing for each categories that we can choose. For example, in laptop categories there are Asus, Lenovo, Acer, Dell, HP ,apple, etc that we can order from this website. Beside, we can know what product is best seller or the latest product.
 
  ### Instruction Script
@@ -397,20 +399,58 @@ Difacomputer.com is web e-commerce that provide some accessories computer, lapto
 
  ### Model and Annotation
  #### Artifact Model
+
+![](images/artifact_1.jpg)
+
+![](images/artifact_2.jpg)
+
+![](images/artifact_3.jpg)
+
+![](images/artifact_4.jpg)
+
+![](images/artifact_5.jpg)
+
  #### Flow Model
+
+![](images/flow_model.jpg)
+
  #### Cultural Model
+
+![](images/social_model.jpg)
+
  ### Do and Don't
  #### Do
+
+- Add a button for add to cart in product or item page
+- Add  a information about price of the product
+- Move "Cara Pembayaran" to another page
+- Change the button for add to cart in home page to make it bigger
+
  #### Don't
+
+- Make a long space in product description in product or item page
+- Show no functional button
+- Make redundant selection
 
  ## Prototyping
  ### Sketch
- #### Solution1
- #### Solution2
- #### Solution3
+ #### Solution 1
+
+![](images/sketch/sketch_1.jpg)
+
+ #### Solution 2
+
+![](images/sketch/sketch_2.jpg)
+
+ #### Solution 3
  ### Versions Differences
- #### Solution1
- #### Solution2
- #### Solutin3
+ #### Solution 1
+
+
+
+ #### Solution 2
+ #### Solution 3
  ### Selected Sketch
  ### High Fidelity Prototype
+
+[This is the link to our high fidelity prototype](http://wildangbudhi.ip-dynamic.com/IMK/)
