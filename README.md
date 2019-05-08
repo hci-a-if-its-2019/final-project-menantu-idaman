@@ -446,11 +446,28 @@ Difacomputer.com is web e-commerce that provide some accessories computer, lapto
  ### Versions Differences
  #### Solution 1
 
+In the first solution we designed the home page to show the hottest category first, so if we clicked the shop button it will redirect to the shopping page with that category selected. We also show the best seller product and featured product of the store. If we click the search button, it will show an overlay search bar with filter option to make the saerching more specific. We also added item's price and add to cart button in the item showcase. If we click the item it will redirect us to the item page.
 
+In the shopping page there is a filter in the left bar to filter user search. Same here there are item's price and add to cart button, and if we click the item it will go to the item page.
+
+In the item page there is an option to set number of item we will add to the cart. There are item's detail information, review of the item and discussion about the item. After that we also provide similar item at the bottom of item's information
 
  #### Solution 2
+
+In the second solution, we designed the home page to show newest product, best seller product, products that on sale, and products with best rating. Unlike the first solution, in the home page there is already a filter in the left bar to filter products that are displayed in the page and only item's name and price that are displayed, no add to cart button. If we click the item we will redirected to the item page. If we click the saerch icon, there is an overlay to search for an item. and if we clicked the "?" icon there is an overlay of the website's contact, and help button to redirect user to the help page. 
+
+In the item page we provide item's price and item's detailed information. We provide 2 buttons, one is Add to cart button if we want to buy something else too and one is Buy now button if we only want to buy that item.
+
+In the help page, we got many kind of help, for example "Cara Pembayaran" in this section we will provide information on how to pay for the in this website after we purchase the item, and many more information.
+
  #### Solution 3
+
+bla bla bla
+
  ### Selected Sketch
+
+We select the solution 3 because we think its more simple in the design and we think that all of the 3 solutions will be functioning in the same way, because what the original website lacks are already solved in all solution. So thats why we choose solution 3 because the design is more simple.
+
  ### High Fidelity Prototype
 
 [This is the link to our high fidelity prototype](http://wildangbudhi.ip-dynamic.com/IMK/)
