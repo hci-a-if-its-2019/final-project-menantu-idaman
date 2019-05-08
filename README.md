@@ -38,6 +38,10 @@ TBA
   
  ## Contextual Inquiry
  ### Description website
+
+<img src="decs.jpg">
+Difacomputer.com is web e-commerce that provide some accessories computer, laptop, smartphone and etc. There are many thing for each categories that we can choose. For example, in laptop categories there are Asus, Lenovo, Acer, Dell, HP ,apple, etc that we can order from this website. Beside, we can know what product is best seller or the latest product.
+ 
  ### Instruction Script
  #### Question
  * Have you ever to buy something online?
@@ -89,6 +93,8 @@ TBA
 
  ### Transcprit
  #### User 1
+ 
+ ```
  1.	Me	: “Jadi ini adalah sebuah website punya orang lain sih, nanti aku akan kasih kamu beberapa pertanyaan sama instruksi, nanti kamu melakukan apa yang aku instruksi kan. Kalo bisa sih, setiap kamu melakukan instruksi , kamu deskripsiin gitu, kamu mencet tombol apa, trus kamu ngapain. Misal kalo aku nyuruh kamu membuat akun. Brati nanti klik tombol Register terus nanti isiin input. Trus klik register, gitu yaa.”
 2.	User1	: “Oke fhira..”
 3.	Me	: “Okay, pertanyaan pertama, apakah kamu pernah membeli barang atau sesuatu secara online?”
@@ -147,8 +153,11 @@ TBA
 56.	Me	: “Oke, menurutmu dari keseluruhan website ini gimana?”
 57.	User1	: “Iya, menurutku ini alurnya bingungi , terus harusnya di halaman per barang tadi lebih diatur aja penempatannya, bedain mana yang penting sama engga.”
 58.	Me	: “Mantap. Oke udah wawancara nya, makasih yaa”
+```
 
  #### User 2
+ 
+ ```
  1.	Me	: “Jadi ini adalah sebuah website punya orang lain sih, nanti aku akan kasih kamu beberapa pertanyaan sama instruksi, nanti kamu melakukan apa yang aku instruksi kan. Kalo bisa sih, setiap kamu melakukan instruksi , kamu deskripsiin gitu, kamu mencet tombol apa, trus kamu ngapain. Misal kalo aku nyuruh kamu membuat akun. Brati nanti klik tombol Register terus nanti isiin input. Trus klik register, gitu yaa.”
 2.	User2: “Oke fhir”
 3.	Me	: “ okay, pertanyaan pertama. Apakah kamu pernah membeli barang atau sesuatu secara online?”
@@ -190,9 +199,11 @@ TBA
 39.	Me	: “Dari keseluruhan tadi itu, menurutmu kurangnya dimana aja?”
 40.	User2	: “Di website ini tuh tidak menunjukkan secara utuh ke pembeli tetang harga trus cara pesennya gimana. Kayak ga jelas gitu. Kurang keep in touch with customer.”
 41.	Me	: “Okay. Sekian wawancara nya, makasih yaa”
-
+```
  
  #### User 3
+ 
+ ```
  1.	Me	: “Jadi ini adalah sebuah website punya orang lain sih, nanti aku akan kasih kamu beberapa pertanyaan sama instruksi, nanti kamu melakukan apa yang aku instruksi kan. Kalo bisa sih, setiap kamu melakukan instruksi , kamu deskripsiin gitu, kamu mencet tombol apa, trus kamu ngapain. Misal kalo aku nyuruh kamu membuat akun. Brati nanti klik tombol Register terus nanti isiin input. Trus klik register, gitu yaa.”
 2.	User3	: “iya mbak”
 3.	Me	: “Okay pertanyaan nomer satu, apakah kamu pernah membeli barang atau sesuatu secara online?”
@@ -249,12 +260,14 @@ TBA
 54.	Me	: “Iya.”
 55.	Me	: “Udah segitu ajaa, makasih ya udah mau bantu”
 56.	User3	: “Iya sama-sama mbak”
-
+```
  
  #### User 4
  
  
  #### User 5
+ 
+ ```
  1.	Me	: “Jadi ini adalah sebuah website punya orang lain sih, nanti aku akan kasih kamu beberapa pertanyaan sama instruksi, nanti kamu melakukan apa yang aku instruksi kan. Kalo bisa sih, setiap kamu melakukan instruksi , kamu deskripsiin gitu, kamu mencet tombol apa, trus kamu ngapain. Misal kalo aku nyuruh kamu membuat akun. Brati nanti klik tombol Register terus nanti isiin input. Trus klik register, gitu yaa.”
 2.	User5	: “Oke fhir”
 3.	Me	: “Oke ke pertanyaan pertama, apakah kamu pernah membeli barang atau sesuatu secara online?”
@@ -325,7 +338,7 @@ TBA
 68.	Me	: “Iya”
 69.	Me	: “Okay, udah gitu aja. Makasih yaaa”
 70.	User5	: “ya, sama-sama”
-
+```
  
  ### Model and Annotation
  #### Artifact Model
@@ -334,9 +347,15 @@ TBA
  ### Do and Don't
  #### Do
  #### Don't
- <hr>
+ 
  ## Prototyping
  ### Sketch
- #### Sketch a page that have revised
- ### Freehand sketch on invisio
+ #### Solution1
+ #### Solution2
+ #### Solution3
+ ### Versions Differences
+ #### Solution1
+ #### Solution2
+ #### Solutin3
+ ### Selected Sketch
  ### High Fidelity Prototype
