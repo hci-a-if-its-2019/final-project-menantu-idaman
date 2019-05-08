@@ -39,9 +39,8 @@ TBA
  ## Contextual Inquiry
  ### Description website
 
-<img src="decs.jpg">
 Difacomputer.com is web e-commerce that provide some accessories computer, laptop, smartphone and etc. There are many thing for each categories that we can choose. For example, in laptop categories there are Asus, Lenovo, Acer, Dell, HP ,apple, etc that we can order from this website. Beside, we can know what product is best seller or the latest product.
- 
+
  ### Instruction Script
  #### Question
  * Have you ever to buy something online?
@@ -49,7 +48,7 @@ Difacomputer.com is web e-commerce that provide some accessories computer, lapto
  * Have you ever try to buy something in difacomputer.com website?
 
  #### Instruction
- 
+
  * Try to search a laptop : Lenovo G50-70-1558
  * Find out what processor that laptop has
  * Add that laptop to the cart
@@ -71,21 +70,21 @@ Difacomputer.com is web e-commerce that provide some accessories computer, lapto
   * He has experience using a website to shopping, do his homework and read a comic
 
  #### User 3
- 
+
  * User is a student in Psychology UNAIR
 	* User is a female
 	* She is 19 years old
 	* She has experience using a website for do her homework and shopping.
 
  #### User 4
- 
+
 * User is a student in Public Health UNAIR
 	* User is a female
 	* She is 22 years old
 	* She has experience in online shopping
 
  #### User 5
- 
+
  * User is a male
 	* He is a student in Informatics Departement  ITS
 	* He is 20 years old
@@ -93,7 +92,7 @@ Difacomputer.com is web e-commerce that provide some accessories computer, lapto
 
  ### Transcprit
  #### User 1
- 
+
  ```
  1.	Me	: “Jadi ini adalah sebuah website punya orang lain sih, nanti aku akan kasih kamu beberapa pertanyaan sama instruksi, nanti kamu melakukan apa yang aku instruksi kan. Kalo bisa sih, setiap kamu melakukan instruksi , kamu deskripsiin gitu, kamu mencet tombol apa, trus kamu ngapain. Misal kalo aku nyuruh kamu membuat akun. Brati nanti klik tombol Register terus nanti isiin input. Trus klik register, gitu yaa.”
 2.	User1	: “Oke fhira..”
@@ -153,10 +152,10 @@ Difacomputer.com is web e-commerce that provide some accessories computer, lapto
 56.	Me	: “Oke, menurutmu dari keseluruhan website ini gimana?”
 57.	User1	: “Iya, menurutku ini alurnya bingungi , terus harusnya di halaman per barang tadi lebih diatur aja penempatannya, bedain mana yang penting sama engga.”
 58.	Me	: “Mantap. Oke udah wawancara nya, makasih yaa”
-```
+ ```
 
  #### User 2
- 
+
  ```
  1.	Me	: “Jadi ini adalah sebuah website punya orang lain sih, nanti aku akan kasih kamu beberapa pertanyaan sama instruksi, nanti kamu melakukan apa yang aku instruksi kan. Kalo bisa sih, setiap kamu melakukan instruksi , kamu deskripsiin gitu, kamu mencet tombol apa, trus kamu ngapain. Misal kalo aku nyuruh kamu membuat akun. Brati nanti klik tombol Register terus nanti isiin input. Trus klik register, gitu yaa.”
 2.	User2: “Oke fhir”
@@ -199,10 +198,10 @@ Difacomputer.com is web e-commerce that provide some accessories computer, lapto
 39.	Me	: “Dari keseluruhan tadi itu, menurutmu kurangnya dimana aja?”
 40.	User2	: “Di website ini tuh tidak menunjukkan secara utuh ke pembeli tetang harga trus cara pesennya gimana. Kayak ga jelas gitu. Kurang keep in touch with customer.”
 41.	Me	: “Okay. Sekian wawancara nya, makasih yaa”
-```
- 
+ ```
+
  #### User 3
- 
+
  ```
  1.	Me	: “Jadi ini adalah sebuah website punya orang lain sih, nanti aku akan kasih kamu beberapa pertanyaan sama instruksi, nanti kamu melakukan apa yang aku instruksi kan. Kalo bisa sih, setiap kamu melakukan instruksi , kamu deskripsiin gitu, kamu mencet tombol apa, trus kamu ngapain. Misal kalo aku nyuruh kamu membuat akun. Brati nanti klik tombol Register terus nanti isiin input. Trus klik register, gitu yaa.”
 2.	User3	: “iya mbak”
@@ -260,13 +259,69 @@ Difacomputer.com is web e-commerce that provide some accessories computer, lapto
 54.	Me	: “Iya.”
 55.	Me	: “Udah segitu ajaa, makasih ya udah mau bantu”
 56.	User3	: “Iya sama-sama mbak”
-```
- 
+ ```
+
  #### User 4
- 
- 
+
+```
+1. Me	: "Nah kan sampeyan wes tau tuku online"
+2. User4	: "Iyo"
+3. Me	: "Nangdi?"
+4. User4	: "Bukalapak, tuku hp"
+5. Me	: "Ndak takon tuku opo aku. Nah tau krungu website iki gak?"
+6. User4	: "Ndak, blass. Opo iki? Difacomputer? Terus kudu lapo aku?"
+7. Me	: "Coba sampeyan iku mencari produk lenovo g50-70"
+8. User4	: "Hoo nggolek nang kene berarti, opo jenenge? Lenovo g50-70?"
+9. Me	: "Iyo"
+10. (She search for that product using the search bar provided by the website)
+11. User4	: "Iki kan?"
+12. Me	: "Lah kok keyboard?"
+13. User4	: "Lah kudune opo?"
+14.	Me	: "Laptop"
+15. User4	: "Oh sek tak coba ngene berarti"
+16. (she then clicked the category as laptop then search it again)
+17. User4	: "Nah iki wes laptop"
+18. Me	: "Coba kei wero aku opo processor laptope iku opo"
+19. User4	: "Ha? opo iku processor?"
+20. Me	: "Ono kok kudune tulisan e processor e opo"
+21. User4	: "Iyo opo?"
+22. Me	: "Pokok spesifikasine wes golekno"
+23. User4	: "Sek, oh iki processor e intel core i5 dan -"
+24. Me	: "Wes-wes cukup. Saiki coba masukno atau tambahno produk iki nang keranjang e sampeyan"
+25. User4	: "Masukkan ke keranjang, oh iki keranjang"
+26. (She clicked the cart button, not the add to cart button. So she is redirected to the cart page, not adding the product)
+27. User4	: "Lah kok kosong, duduk tombol nambahno iku berarti mau. Kudune Add to Cart tapi kok gk ono"
+28. Me	: "Golek maneh wes. Lek wes menyerah ngomong o"
+29. (After searching for couple minutes she gave up)
+30. User4	: "Nyerah aku wes"
+31. Me	: "Oke wes lanjut, saiki coba golek Kapersky Antivirus 2017 3 User"
+32. User4	: "Opo iku? oh antivirus a? sek sek"
+33. (She search for it using search bar)
+34. User4	: "Iki wes nemu"
+35. Me	: "Coba saiki golek regone piro"
+36. User4	: "Oke sek, nggolek nang website liyo gk ppo?"
+37. Me	: "Yo gak lah, nang website iki"
+38. User4	: "Oke wes sek."
+39. (She searched for the item's price for a couple minutes until she gave up)
+40. User4	: "Gak nemuuu, kok lucu gak ono harga ne see"
+41. Me	: "Hahaha yaopo wes nyerah?"
+42. User4	: "Apakah ini situs palsu? wahahaha"
+43. Me	: "Nggaaakkk asli inii"
+44. User4	: "Yowes nyerah wes"
+45. Me	: "Cara kita agar tau harganya itu, kita tambahkan dulu ke keranjang, ntar di keranjang ditunjukin harganya"
+46. User4	: "Kok lucu see, gak niat iki seng nggawe website, coba chat iki takon "Kenapa Add to Cart nya sama harganya disusahin pak""
+47. Me	: "Lol, terus yaopo menurut sampeyan?"
+48. User4	: "Mending daftar Shopee ae wes iki toko ne"
+49. Me	: "Wahahaha, koyoke se iyo enak. Yowes iku tok suwun-suwun"
+50. User4	: "Okeee"
+
+```
+
+
+
+
  #### User 5
- 
+
  ```
  1.	Me	: “Jadi ini adalah sebuah website punya orang lain sih, nanti aku akan kasih kamu beberapa pertanyaan sama instruksi, nanti kamu melakukan apa yang aku instruksi kan. Kalo bisa sih, setiap kamu melakukan instruksi , kamu deskripsiin gitu, kamu mencet tombol apa, trus kamu ngapain. Misal kalo aku nyuruh kamu membuat akun. Brati nanti klik tombol Register terus nanti isiin input. Trus klik register, gitu yaa.”
 2.	User5	: “Oke fhir”
@@ -338,8 +393,8 @@ Difacomputer.com is web e-commerce that provide some accessories computer, lapto
 68.	Me	: “Iya”
 69.	Me	: “Okay, udah gitu aja. Makasih yaaa”
 70.	User5	: “ya, sama-sama”
-```
- 
+ ```
+
  ### Model and Annotation
  #### Artifact Model
  #### Flow Model
@@ -347,7 +402,7 @@ Difacomputer.com is web e-commerce that provide some accessories computer, lapto
  ### Do and Don't
  #### Do
  #### Don't
- 
+
  ## Prototyping
  ### Sketch
  #### Solution1
