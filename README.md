@@ -443,6 +443,9 @@ Difacomputer.com is web e-commerce that provide some accessories computer, lapto
 ![](images/sketch/sketch_2.jpg)
 
  #### Solution 3
+
+![](images/sketch/sketch_3.jpg)
+
  ### Versions Differences
  #### Solution 1
 
@@ -462,7 +465,13 @@ In the help page, we got many kind of help, for example "Cara Pembayaran" in thi
 
  #### Solution 3
 
-bla bla bla
+In the third solution we make the design more simple by only showing 1 featured product, hot new arrivals, and hot best sellers. Because for further shopping list we have shopping page that can be accessed from home page or via search engine.
+
+The shopping page has filter menu in the left bar and shows what category are you searching for right now.
+
+The search page has sort feature, so we can sort the items based on what we want, it got a filter menu too in the left bar.
+
+The individual item page is the most simple, it only shows Name, details quantity to buy, price, and add to cart button.
 
  ### Selected Sketch
 
