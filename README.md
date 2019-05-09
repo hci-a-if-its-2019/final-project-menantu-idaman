@@ -25,7 +25,7 @@ Table of contents
   - [Sketch](#sketch)
   - [Versions Differences](#versions-differences)
   - [Selected Sketch](#selected-sketch)
-  - [Prototype](#prototype)
+  - [Prototype](#high-fidelity-prototype)
 
 
 
