@@ -113,7 +113,7 @@ Difacomputer.com is web e-commerce that provide some accessories computer, lapto
 	* He is 20 years old
 	* He has experience to using a website for shopping in Itemku.com, Bukalapak, Shopee.
 
- ### Transcprit
+ ### Transcript
  #### User 1
 
  ```
