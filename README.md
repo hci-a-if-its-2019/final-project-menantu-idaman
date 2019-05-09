@@ -8,6 +8,27 @@
 
 
 
+Table of contents
+
+- [Project Topic](#project-topic)
+- [Contextual Inquiry](#contextual-inquiry)
+  - [Description Website](#description-website)
+  - [Instruction Script](#instruction-script)
+  - [User Description](#user-description)
+  - [Transcript](#transcript)
+  - [Model and Annotation](#model-and-annotation)
+    - [Artifact Model](#artifact-model)
+    - [Flow Model](#flow-model)
+    - [Cultural Model](#cultural-model)
+  - [Dos and Don'ts](#do-and-dont)
+- [Prototyping](#prototyping)
+  - [Sketch](#sketch)
+  - [Versions Differences](#versions-differences)
+  - [Selected Sketch](#selected-sketch)
+  - [Prototype](#prototype)
+
+
+
 ## Project Topic
 
 The topic of our final project will be about [difacomputer](www.difacomputer.com) This web is an e-commerce web, that sells *IT Things.* Here's what it looks like :
