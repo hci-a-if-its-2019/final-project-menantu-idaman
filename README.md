@@ -501,3 +501,284 @@ We select the solution 3 because we think its more simple in the design and we t
  ### High Fidelity Prototype
 
 [This is the link to our high fidelity prototype](http://wildangbudhi.ip-dynamic.com/IMK/)
+
+
+
+## Usability Evaluation and Prototyping (Again)
+
+### Operating The Prototype
+
+[Link to our video about how to operate our prototype](https://youtu.be/Bsp__q8yubU)
+
+### Part A: Usability Evaluation
+
+#### 1. Brief Description of Participants
+
+**User 1**
+
+- User is a student in State Administration UNAIR
+- User is a female.
+- She is 21 years old
+- She has experience using a website to shopping, look her GPA in UNAIR website and do her homework. 
+
+**User 2**
+
+- User is a student in Industrial Engineering ITS
+- User is a male
+- He is 19 years old
+- He has experience using a website to shopping, do his homework and read a comic
+
+**User 3**
+
+- User is a student in Psychology UNAIR
+- User is a female
+- She is 19 years old
+- She has experience using a website for do her homework and shopping.
+
+**User 4**
+
+- User is a student in Public Health UNAIR
+- User is a female
+- She is 22 years old
+- She has experience in online shopping
+
+**User 5**
+
+- User is a male
+- He is a student in Informatics Department  ITS
+- He is 20 years old
+- He has experience to using a website for shopping in Itemku.com, Bukalapak, Shopee.
+
+**User 6**
+
+- User is a male
+- He is a student in Informatics Department ITS
+- He is 20 years old
+- He has experience in online shopping
+
+#### 2. Evaluation Script
+
+- Try to search a laptop : Lenovo G50-70-1558
+- Find out what processor that laptop has
+- Add that laptop to the cart
+- Try to search : KARSPERSKY ANTIVIRUS 2017 3 USER 
+- Try to find that item’s price
+- Add that item to the cart
+
+#### 3. Transcript
+
+**User1**
+
+```
+1. Me         : “Jadi ini adalah sebuah website yang memperkaiki website yang kemaren itu.Nanti aku bakal kasih kamu beberapa instruksi trus kamu ngejalanin sama bilang apapun yang kamu lakukan.”
+2. User1    : “oke”
+3. Me         : “Coba kamu cari laptop lenovo”
+4. User1    : “Ini , kita isi di kolom search lenovo trus klik tombol search”
+5. User1    : “lah, oh ini ada”
+6. User1    : “Trus aku pilih ini?Wah kok lemot internetnya, hm sek bentar-bentar”
+7. (user terlihat bingung ketika menekan gambar hasil result)
+8. User1    : “oh ini yang bisa di klik”
+9. Me         : “Kenapa? Ada masalah?”
+10. User1    : “Ini , sebaiknya kita juga bisa klik di gambar tombolnya”
+11. Me         : “Okay. Oke selanjutnya, coba kamu cari tau prosessor yang  ada di laptop itu”
+12. User1    : “Ini, Intel Core i7. Mantap ini lah, bagus-bagus daripada website yang kemaren”
+13. Me         : “Oke, coba kamu tambah ke cart”
+14. User1    : “Klik tombol ini”
+15. (user melakukan klik ke tombol add to cart)
+16. Me         : “Okay, coba kamu search lagi antivirus”
+17. User1    : “ini kita isi di kolom search antivirus trus klik tombol search”
+18. User1    : “ini ketemu hasilnya”
+19. Me         : “okay. Coba kamu cari tau harganya”
+20. User1    : “ini kan? 
+21. (user melihat-lihat halaman product)
+22. User1    : “Udah lengkap sih informasinya”
+23. Me         : “Okay,Coba kamu tambah produk itu ke cart”
+24. User1    : “klik tombol add to cart”
+25. Me         : “Okay sudah, apakah tadi ada masalah?”
+26. User1    : “Engga sih, cuman yang tadi aku udah bilang itu, yang tombol per product nya itu sekotak aja yang bisa di klik bukan Cuma di tulisannya”
+27. Me         : “Oke apa lagi?”
+28. User1    : “Udah sih itu aja. Secara keseluruhan udah bagus banget gak kayak yang kemaren itu.”
+29. Me         : “Okay makasih ya”
+```
+
+**User2**
+
+```
+1. Me         : “Jadi ini adalah sebuah website yang memperkaiki website yang kemaren itu.Nanti aku bakal kasih kamu beberapa instruksi trus kamu ngejalanin sama bilang apapun yang kamu lakukan.”
+2. User2    : “oke fhir”
+3. Me         : “oke pertanyaan pertama, coba kamu cari laptop lenovo”
+4. (user mengetikkan lenovo ke search bar)
+5. (user melakukan klik tombol search)
+6. User2    : “hah gaada? Eh ada deng, ini ada tulisan search result. Oh bener-bener ada”
+7. Me         : “Okay, coba kamu cari tau informasi tentang processor dari laptop itu”
+8. User2    : “Ini , intel core i7”
+9. Me         : “Okay, coba kamu tambah produk itu ke cart”
+10. User2    : “tambahin ke cart , ini tombol add to cart”
+11. Me         : “Oke, coba kamu search lagi antivirus”
+12. (user mengetik pada search bar)
+13. (user menekan tombol search)
+14. User2    : “ini fhir”
+15. Me         : “Okay, cari tau tentang harga dari produk itu”
+16. User2    : ”ini fhir”
+17. Me        : “Okay, coba kamu tambah produk itu ke cart”
+18. User2    : “antivirus yang mana ini?”
+19. Me         : “terserah”
+20. User2    : “ini halaman antivirusnya, trus ini klik tombol add to cart”
+21. Me         : “secara keseluruhan, apa ada masalah?”
+22. User2    : “udah bagus sih, tampilannya udah enak sih kayak startup-startup lain, trus mudah dioperasikan juga.”
+23. Me         : “Ada lagi?”
+24. User2    : “Udah itu aja.”
+25. Me         : “Okay makasih ya”
+26. User2    : “Sama-sama”
+```
+
+**User3**
+
+```
+1. Me         : “Jadi ini adalah sebuah website yang memperkaiki website yang kemaren itu.Nanti aku bakal kasih kamu beberapa instruksi trus kamu ngejalanin sama bilang apapun yang kamu lakukan.”
+2. User3    : “oke fhir”
+3. Me         : “Pertama, coba kamu cari laptop lenovo”
+4. (user mengetikkan lenovo)
+5. (user memilih kategori menjadi laptop)
+6. (user menekan tombol search)
+7. Me         : “Coba kamu cari informasi tentang processor dari laptop itu.”
+8. User3    : “Oke, yang mana ini?”
+9. Me         : “terserah kamu”
+10. User3    : “eh seksek, kok ga bisa di klik ya?”
+11. Me         : “ehh, hmm”
+12. (user terlihat bingung)
+13. User3    : “owalah, kok Cuma bisa di klik pas tulisannya doang.”
+14. User3    : “ini , eh iya ini. Eh sek sek processor tuh yang kayak apa sih? Yang ini ga sih fhir? Intel Core i7?”
+15. Me         : “Iya. Coba kamu tambah ke keranjang ”
+16. User3    : “Iya ini klik tombol add to cart”
+17. Me         : “Oke, coba kamu search lagi antivirus”
+18. (user mengetikkan antivirus)
+19. (user memilih kategori menjadi lain-lain)
+20. (user menekan tombol search)
+21. User3    : “ini fhira”
+22. Me         : “Coba kamu cari informasi tentang harga dari produk itu”
+23. User3    : “ini”
+24. (user menunjuk pointer ke letak informasi harga)
+25. Me         : “Coba kamu tambah produk itu ke cart”
+26. User3    : “Ini klik tombol add to cart”
+27. Me         : “secara keseluruhan, apakah ada masalah?”
+28. User3    : “ketika mau ngeklik per produk nya itu harus tulisannya, aku pikir di gambarnya bisa. Itu sih tadi yang bikin bingung.”
+29. User3    : “Udah bagus kok ini, mudah dimengerti..Iya udah bagus kok”
+30. Me         : “Oke makasih ya”
+31. User3    : “Sama-sama”   
+```
+
+**User4**
+
+```
+1. Me : "Kan sampeyan wes nyoba difacomputer.com wingi"
+2. Her : "Iyo, terus?"
+3. Me : "Nah iki tim ku wes nggawe desain prototype website sing luwih apik"
+4. Her : "Oke, terus kudu lapo aku?"
+5. Me : "Coba saiki search laptop lenovo koyok wingi"
+6. Her : "Oke"
+7. (User typed lenovo in the search bar and then press Enter)
+8. Her : "Wes iki ketemu"
+9. Me : "Coba kei wero aku detail informasi barang e"
+10. (User clicked the item's image for a few times,  then try to click on the item's name)
+11. Her : "Hoo kudu jeneng e to, iki detail informasine"
+12. Me : "Oke sip, tambahno item iku nang keranjang pembelian"
+13. (User clicked on the Add to Cart Button)
+14. Her : "Wes iki, lah kok Macbook?"
+15. Me : "Yo kan iki sek prototype, durung full implementasi kabeh fungsi"
+16. Her : "Oalah oke, terus kudu lapo? nggolek antivirus koyok wingi sisan?"
+17. Me : "Iyo sip, golek en wes"
+18. (User typed antivirus in the search bar then press Enter)
+19. Her : "Milih sing endi iki? ono 3"
+20. Me : "Pilih sing Kapersky 3 User"
+21. (User click the item's name)
+22. Her : "Terus?"
+23. Me : "Hargane piro?"
+24. Her : "Dek kene tulisane 2000, cek murah e"
+25. Me : "Yo jeneng e data dummy"
+26. Her : "Oke wes terus ditambah nang keranjang sisan?"
+27. Me : "Iyes"
+28. (User then clicked the Add to Cart Button)
+29. Her : "Terus yaopo?"
+30. Me : "Uwes se. Menurut sampeyan yaopo?"
+31. Her : "Coba dek kategori ne iku ono sub kategori sisan, dadi misal kategori laptop, ono sub kategori acer, lenovo, bla bla bla"
+32. Me : "Oke wes, wes mari suwun suwun"
+```
+
+**User5**
+
+```
+1. Me         : “Jadi ini adalah sebuah website yang memperkaiki website yang kemaren itu.Nanti aku bakal kasih kamu beberapa instruksi trus kamu ngejalanin sama bilang apapun yang kamu lakukan.”
+2. User5    : “oke fhir”
+3. Me         : “Coba kamu search laptop lenovo”
+4. (user mengetik laptop lenovo pada search bar)
+5. (user menekan tombol search)
+6. User5    : “Eh kok ga keluar? Eh bentar-bentar lenovo kok tadi ya”
+7. (user mengetik lenovo pada search bar)
+8. (user menekan tombol search)
+9. User5    : “ini fhir”
+10. Me         : “Oke, Coba kamu cari tau informasi tentang processor dari laptop itu”
+11. (user mencoba untuk menekan tombol yang akan mengarah ke halaman per produk)
+12. (user terlihat bingung)
+13. User5    : “kok ga bisa di klik yaa, apa ini internetnya yang lemot?”
+14. Me         : “hmm”
+15. (user mencoba untuk menekan tombol itu)
+16. User5    : “oh, ini”
+17. User5    : “ terus informasinya , ini fhir, inter core”
+18. Me         : “Coba kamu tambahkan produk itu ke cart”
+19. (user klik tombol add to cart)
+20. User5    : “udah fhir”
+21. Me         : “Coba kamu search lagi antivirus” 
+22. (user mengetik antivirus pada search bar)
+23. (user menekan tombol search)
+24. User5    : “ini fhir”
+25. Me         : “Coba kamu cari tau tentang harga dari produk itu”
+26. User5    : “Kan udah ada disini? Oh iya ini hahaha”
+27. Me         : “Okay, coba kamu tambahkan produk itu ke cart”
+28. User5    : “ini klik tombol”
+29. (user menunjuk ke tombol add to cart)
+30. Me         : “Oke, secara keseluruhan tadi ada masalah ga?”
+31. User5    : “ini sih , tadi itu waktu aku mau klik gambar trus dibawahnya ada tulisan produknya itu ga bisa. Jadi Cuma bisa di klik di tulisannya aja. Mendingan di gambarnya juga bisa di klik”
+32. Me         : “Oke ada lagi?”
+33. User5    : “Udah itu aja”
+34. Me         : “Oke makasih ya”
+35. User5    : “samasama fhir”
+```
+
+**User6**
+
+```
+1. Me : "Kau pernah belanja online gak?"
+2. Him : "Udah lah"
+3. Me : "Oke dah, ini aku kan punya suatu prototype web untuk belanja online. Aku ingin kau mencobanya."
+4. Him : "Oke, nyoba gimana?"
+5. Me : "Ntar kukasih instruksi kok sans"
+6. Him : "Oke, terus pertama ngapain?"
+7. Me : "Coba cari laptop lenovo g50"
+8. (User typed lenovo in the search bar)
+9. Him : "Yang g50?"
+10. Me : "iyes"
+11. (User clicked for several times in the item's image, then clicked on the intem's name)
+12. Him : "Wah ini nih, gk enak kalau cuma bisa klik di nama."
+13. Me : "Ya maap lupa, cari informasi nya"
+14. Him : "Lah ini bisa kau baca sendiri"
+15. Me : "Oke dah, sekarang tambahkan item nya ke cart"
+16. (User clicked the Add to Cart button)
+17. Him : "Lah kok macbook? jelek ini web nya"
+18. Me : "Ya namanya prototype, jadi tidak semua fungsi diimplementasikan secara sempurna"
+19. Him : "Jelek ini, jelek"
+20. Me : "Ya apa kata kau dah. Sekarang coba cari Kapersky antivirus"
+21. (User typed antivirus in the search bar, then press enter. Then proceed clicking the item's name for detailed information)
+22. Him : "Dah nih"
+23. Me : "Berapa harganya?"
+24. Him : "2000 an"
+25. Me : "Coba tambahkan ke keranjang juga"
+26. (User click on the Add to Cart button)
+27. Him : "Lah kok gk berubah cartnya? jelek ini jelek"
+28. Me : "Kan tadi udah ku bilang oi"
+29. Him : "Udah nih?"
+30. Me : "Udah, menurutmu gimana?"
+31. Him : "Ya kalau desain udah bagus sih, cuma tadi itu buat ke detail per item harusnya bisa diklik jgua gambarnya, jangan nama aja pokoknya."
+32. Me : "Oke dah makasih-makasih"
+```
+
