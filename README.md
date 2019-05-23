@@ -790,7 +790,7 @@ We select the solution 3 because we think its more simple in the design and we t
 
 **Homepage**
 
-![](images/homepage.jpg)
+![](images/homePage.jpg)
 
 - **Reference**: User 4 (line 7 & 31)
 - **Feedback**: Very positive even if there is no spesific reference to the homepage. Only there is an advice where we should add sub-category in the category dropdown menu
