@@ -677,7 +677,7 @@ We select the solution 3 because we think its more simple in the design and we t
 4. Her : "Oke, terus kudu lapo aku?"
 5. Me : "Coba saiki search laptop lenovo koyok wingi"
 6. Her : "Oke"
-7. (User typed lenovo in the search bar and then press Enter)
+7. (User clicked the category dropdown, but then user typed lenovo in the search bar and then press Enter)
 8. Her : "Wes iki ketemu"
 9. Me : "Coba kei wero aku detail informasi barang e"
 10. (User clicked the item's image for a few times,  then try to click on the item's name)
@@ -702,7 +702,11 @@ We select the solution 3 because we think its more simple in the design and we t
 29. Her : "Terus yaopo?"
 30. Me : "Uwes se. Menurut sampeyan yaopo?"
 31. Her : "Coba dek kategori ne iku ono sub kategori sisan, dadi misal kategori laptop, ono sub kategori acer, lenovo, bla bla bla"
-32. Me : "Oke wes, wes mari suwun suwun"
+32. Me : "Nah kan iki ono halaman cara pembayaran, mending dideleh dewe ngene dadi halaman dewe, opo koyok sing website iku?"
+33. Her : "Koyok opo lek sing dek web asline?"
+34. Me : "Dek halaman per item ono cara pembayaran"
+35. Her : "Mending ngene sih, luwih enak gk ngakeh-akehi tulisan dek halaman per item."
+36. Me : "Oke wes, wes mari suwun suwun"
 ```
 
 **User5**
@@ -782,3 +786,88 @@ We select the solution 3 because we think its more simple in the design and we t
 32. Me : "Oke dah makasih-makasih"
 ```
 
+#### 4. Feedback and Incidence Analysis
+
+**Homepage**
+
+![](images/homepage.jpg)
+
+- **Reference**: User 4 (line 7 & 31)
+- **Feedback**: Very positive even if there is no spesific reference to the homepage. Only there is an advice where we should add sub-category in the category dropdown menu
+- **Incidence**:  User tried to use the category feature but then decided not to.
+- **Reason**: Having a sub-category will help user to be more spesific when searching for an item
+- **Resolution**: Adding a sub-category besides the category
+
+**Item Detail Page**
+
+![](images/itemPage.jpg)
+
+- **Reference**: -
+- **Feedback**: -
+- **Incidence**: -
+- **Reason**: -
+- **Resolution**: - 
+
+**Search Page**
+
+![](images/searchPage.jpg)
+
+- **Reference**:
+
+  User 1 (line 7)
+
+  User 3 (line 10)
+
+  User 4 (line 10)
+
+  User 5 (line 11)
+
+  User 6 (line 11)
+
+- **Feedback**: We think its a positive one, bacause ther is only one advice for us. That is to make the image will redirect user to the item detail page too.
+
+- **Incidence**: User can't open the item detail page by clicking the image.
+
+- **Reason**: It's more easy when we also can click the image, not only the item's name
+
+- **Resolution**: Making the image redirecting us to the item's page
+
+**Cart Page**
+
+![](images/cartPage.jpg)
+
+- **Reference**: -
+- **Feedback**: -
+- **Incidence**: -
+- **Reason**: -
+- **Resolution:** -
+
+**Cara Pembayaran Page**
+
+![](images/caraBayarPage.jpg)
+
+- **Reference**: User4 (line 35)
+- **Feedback**: Positive.
+- **Incidence**: - 
+- **Reason**: Its better this way (Cara Pembayaran has its own page) rather thatn adding Cara Pembayaran in the each item's detail page. So its making the item's detail page more simple.
+- **Resolution**: -
+
+
+
+### Part B: Prototyping (again)
+
+#### Sketch for the changed screen
+
+Here is the sketch for the category dropdown menu that we decided to change
+
+![](images/sketchRev.jpg)
+
+We add sub-category if we clicked one of the category in the dropdown
+
+#### Design Rationale
+
+Having detailed feature for the user help them to operate the application. But we need to keep it simple, because the more simple it is, the better.
+
+#### High-Fidelity Interactive-Prototype
+
+[Link to our Prototype](http://wildangbudhi.ip-dynamic.com/IMK/index.html)
